@@ -30,7 +30,7 @@ export default {
   workflowDeveloperTitle: "Developer",
   workflowDeveloperDescription: "A technical path for those who already have clear ideas about stacks and components.",
   mainTitle: "PromptCraft",
-  mainSubtitle: "Your guide to turning vibes into flawless web apps with AI.",
+  mainSubtitle: "A meta-application: an app, created by AI, that teaches you how to create apps with AI.",
   openWizardButton: "Create Your Guided Prompt",
   footerSlogan: "Built to bridge the gap between human ideas and AI execution",
   footerCredits: "Credits",

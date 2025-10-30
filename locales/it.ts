@@ -30,7 +30,7 @@ export default {
   workflowDeveloperTitle: "Sviluppatore",
   workflowDeveloperDescription: "Un percorso tecnico per chi ha già le idee chiare su stack e componenti.",
   mainTitle: "PromptCraft",
-  mainSubtitle: "La tua guida per trasformare idee in web app impeccabili con l'IA.",
+  mainSubtitle: "Una meta-applicazione: un'app, creata dall'IA, che ti insegna a creare app con l'IA.",
   openWizardButton: "Crea il tuo Prompt Guidato",
   footerSlogan: "Creato per unire le idee umane all'esecuzione dell'IA",
   footerCredits: "Credits",
