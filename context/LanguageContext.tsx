@@ -1,4 +1,5 @@
 
+
 import React, { createContext, useState, useContext, useEffect, useMemo } from 'react';
 
 type Language = 'it' | 'en';
@@ -11,7 +12,7 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-  const [language, rawSetLanguage] = useState<Language>('it');
+  const [language, rawSetLanguage] = useState<Language>('en');
 
   useEffect(() => {
     const storedLang = localStorage.getItem('language') as Language | null;
@@ -21,8 +22,10 @@ export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ chil
       rawSetLanguage(storedLang);
     } else if (browserLang === 'en') {
       rawSetLanguage('en');
+    } else if (browserLang === 'it') {
+      rawSetLanguage('it');
     } else {
-      rawSetLanguage('it'); // Default to Italian
+      rawSetLanguage('en'); // Default to English
     }
   }, []);
 
