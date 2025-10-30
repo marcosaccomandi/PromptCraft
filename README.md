@@ -1,6 +1,6 @@
 # PromptCraft 
 
-**[➡️ Prova la Demo Live Qui!](https://ai.studio/apps/drive/1X0J_CMpjYqKnAjDpTWYQ5HSmXe657Clh)**
+**[➡️ Prova l'App qui!](https://promptcraft-7665147795.us-west1.run.app)**
 
 | Light Skin | Cyberpunk Skin | Colorful Skin |
 | :---: | :---: | :---: |
@@ -49,7 +49,7 @@ _Questo progetto è stato ideato e diretto da **Marco Saccomandi** ([Profilo Lin
 
 ## English Version
 
-**[➡️ Try the Live Demo Here!](https://ai.studio/apps/drive/1X0J_CMpjYqKnAjDpTWYQ5HSmXe657Clh)**
+**[➡️ Try the App Here!](https://promptcraft-7665147795.us-west1.run.app)**
 
 **NB** Go full screen on **Google Ai Studio** for the best experience !
 
