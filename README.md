@@ -1,8 +1,8 @@
 # PromptCraft 
 
-**[➡️ Prova la Demo Live Qui!](INSERISCI_QUI_IL_LINK_PUBBLICO_DEL_PROGETTO_AI_STUDIO)**
+**[➡️ Prova la Demo Live Qui!](https://ai.studio/apps/drive/1X0J_CMpjYqKnAjDpTWYQ5HSmXe657Clh)**
 
-*(Sostituisci questo testo con uno screenshot o un GIF del progetto in azione!)*
+**NB** Passa a schermo intero quando apri l'app su **Google Ai Studio** per un esperienza ideale !
 
 ---
 
@@ -45,9 +45,9 @@ _Questo progetto è stato ideato e diretto da **Marco Saccomandi** ([Profilo Lin
 
 ## English Version
 
-**[➡️ Try the Live Demo Here!](PASTE_YOUR_PUBLIC_AI_STUDIO_PROJECT_LINK_HERE)**
+**[➡️ Try the Live Demo Here!](https://ai.studio/apps/drive/1X0J_CMpjYqKnAjDpTWYQ5HSmXe657Clh)**
 
-*(Replace this text with a screenshot or a GIF of the project in action!)*
+**NB** Go full screen on **Google Ai Studio** for the best experience !
 
 ### From Experiment to Finished Project
 
