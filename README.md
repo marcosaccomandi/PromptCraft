@@ -2,9 +2,9 @@
 
 **[➡️ Prova la Demo Live Qui!](https://ai.studio/apps/drive/1X0J_CMpjYqKnAjDpTWYQ5HSmXe657Clh)**
 
-| Immagine 1 | Immagine 2 |
-| :---: | :---: |
-| ![Light Theme](assets/screenshot1.png) | ![Colorful Theme](assets/screenshot2.png) |
+| Light Skin | Cyberpunk Skin | Colorful Skin |
+| :---: | :---: | :---: |
+| ![Light](images/screen1.png) | ![Cyberpunk](images/screen3.png) | ![Colorful](images/screen2.png) |
 
 **NB** Passa a schermo intero quando apri l'app su **Google Ai Studio** per un esperienza ideale !
 
